@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "my-command": "index.js"
+    "my-command": "index.js",
+    "my-command-2": "index2.js"
   },
   "keywords": [],
   "author": "",
